@@ -20,7 +20,9 @@ A Flask web app to upload, clean, analyze, and visualize CSV files with an inter
 
 ## 📸 Demo
 
-![screenshot](static/demo.png)
+![screenshot1](![image](https://github.com/user-attachments/assets/9a3e82f6-4305-43d0-beb4-11fdfcc08ee0))
+![screenshot2](![image](![image](https://github.com/user-attachments/assets/8a90c1ee-e616-45ff-accb-c16c3ffca7b1))
+![screenshot3](![image](![image](https://github.com/user-attachments/assets/38b1c5d3-cf8a-43cb-9552-662b50c36fdd))
 
 > Replace with your screenshot once deployed.
 
