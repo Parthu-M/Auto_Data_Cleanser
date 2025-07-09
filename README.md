@@ -28,9 +28,9 @@ A Flask web app to upload, clean, analyze, and visualize CSV files with an inter
 
 ## 🧰 Technologies Used
 
-- Python 3.x
+- Python 
 - Flask
 - Pandas
 - Matplotlib / Seaborn
-- HTML + Jinja2 Templates
-- Bootstrap-inspired styling
+- HTML , CSS
+- Bootstrap styling
